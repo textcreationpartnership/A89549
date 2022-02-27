@@ -1,0 +1,209 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The English mountebank: or, a physical dispensatory, wherein is prescribed, many strange and excellent receits of Mr Marriot, the great eater of Grays-Inn: with the manner how he makes his cordial broaths, pills, purgatious [sic], julips, and vomits, to keep his body in temper, and free from surfeits. With sundry directions, 1 How to make his cordial broath. 2 His pills to appease hunger. 3 His strange purgation; never before practised by any doctor in England. 4 The manner and reason, why he swallows bullets &amp; stones. 5 How he orders his bak'd meat, or rare dish on Sundays. 6 How to make his new fashion fish-broath. 7 How to make his sallet, for cooling of the bloud. 8 How to make his new dish, called a frigazee: the operation whereof, expells all sadness and melancholy.</title>
+            <author>Marriott, John, d. 1653.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89549</idno>
+            <idno type="STC">Wing M714</idno>
+            <idno type="STC">Thomason E668_20</idno>
+            <idno type="STC">ESTC R207009</idno>
+            <idno type="EEBO-CITATION">99866085</idno>
+            <idno type="PROQUEST">99866085</idno>
+            <idno type="VID">118345</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89549)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118345)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 102:E668[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The English mountebank: or, a physical dispensatory, wherein is prescribed, many strange and excellent receits of Mr Marriot, the great eater of Grays-Inn: with the manner how he makes his cordial broaths, pills, purgatious [sic], julips, and vomits, to keep his body in temper, and free from surfeits. With sundry directions, 1 How to make his cordial broath. 2 His pills to appease hunger. 3 His strange purgation; never before practised by any doctor in England. 4 The manner and reason, why he swallows bullets &amp; stones. 5 How he orders his bak'd meat, or rare dish on Sundays. 6 How to make his new fashion fish-broath. 7 How to make his sallet, for cooling of the bloud. 8 How to make his new dish, called a frigazee: the operation whereof, expells all sadness and melancholy.</title>
+                  <author>Marriott, John, d. 1653.</author>
+               </titleStmt>
+               <extent>8 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 29".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118345:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 49 -->
+            <p>THE ENGLISH MOUNTEBANK: Or, a Phyſical DISPENSATORY, Wherein is preſcribed, Many ſtrange and excellent Receits of Mr MARRIOT, the great Eater of Grays-Inn: With the manner how he makes his Cor<g ref="char:EOLhyphen"/>dial Broaths, Pills, Purgatious, Julips, and Vomits, to keep his Body in temper, and free from SURFEITS.</p>
+            <p>With ſundry Directions,
+<list>
+                  <item>1 How to make his Cordial Broath.</item>
+                  <item>2 His Pills to appeaſe Hunger.</item>
+                  <item>3 His ſtrange Purgation; never before practiſed by any Doct<g ref="char:EOLhyphen"/>or in England.</item>
+                  <item>4 The manner and reaſon, why he ſwallows Bullets &amp; Stones.</item>
+                  <item>5 How he orders his bak'd meat, or rare D<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſh on Sundays.</item>
+                  <item>6 How to make his new faſhion Fiſh-broath.</item>
+                  <item>7 How to make his Sallet, for cooling of the Bloud.</item>
+                  <item>8 How to make his new Diſh, called a Frigazee: the operation whereof, expells all ſadneſs and melancholy.</item>
+               </list>
+            </p>
+            <p>By J. MARRIOT, of Grays-Inn, Gent.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>George Horton,</hi> 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dispensatory">
+            <pb facs="tcp:118345:2"/>
+            <!-- PDF PAGE 50 -->
+            <pb n="5" facs="tcp:118345:2"/>
+            <!-- PDF PAGE 50 -->
+            <head>The Engliſh Mountebank: <hi>OR,</hi> A new Phyſical Diſpenſatory: By J. Mar<g ref="char:EOLhyphen"/>riot of Grayes-Inn, Gent. Wherein is preſcribed his rare Conceits, never before practis'd or admi<g ref="char:EOLhyphen"/>niſtred by any Doctor: Alſo, the manner how he makes his Cordial Broaths, Pills, Purgations, Julips, and Vomits, to keep his body in temper, and free from ſurfeits, &amp;c.</head>
+            <div type="recipe">
+               <head>How to make his Cordiall Broath.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>Ake three ſheeps hinges with the wool on their heads: three dozen of ſheep Trotters: two Bullocks Livers, with half a peck of Oatmeal; boyl all theſe in a Cal<g ref="char:EOLhyphen"/>dron two hours; then ſtrain the broath through a hair ſackcloath, and let it cool: The uſe of it is to appeaſe grumbling in the Guts, or a wambling ſtomack, by drinking one Gallon at a time, and eating the meat after it: This will preſerve you from hunger and wind in the ſtomack, uſing it but once in two hours.</p>
+            </div>
+            <div type="recipe">
+               <head>How to make his Pills to appeaſe hunger, ordinarily carryed about him.</head>
+               <p>TAke of Rye-tueal 9 pound, of Chandlers Graves 3 pound, of the skimmings of Honey one pound, warm water as much as will
+<pb n="5" facs="tcp:118345:3"/>
+                  <!-- PDF PAGE 51 -->make it into a Paſte: then roul them up into a dozen balks: then put them into ſome boyling broath, till they be through boiled: then ſet them to cool; but beware that the dogs do not deceive you of them, as they have done him oftentimes. The chief uſe of theſe Pills are for travelling; for M<hi rend="sup">r</hi> 
+                  <hi>Marriot</hi> carryed always a dozen to Weſtminſter in the Term time for fear of fainting: his ordinary place for eating them, was in the dark place neer the Common<g ref="char:EOLhyphen"/>pleas Treaſury, where one might ſee him ſwallow theſe Pillt, as ea<g ref="char:EOLhyphen"/>ſily as an ordinary man would do a guilt pill in the pap of an Ap<g ref="char:EOLhyphen"/>ple.</p>
+            </div>
+            <div type="recipe">
+               <head>How he makes a Purgation.</head>
+               <p>MR <hi>Marriot</hi> would often fol<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow the Fariars Rule for Drenches, which Receit beſt agreed with his body: for he would take Milk and Oyl with Aqu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vitae, Pepper, and Brimſtone, all mingled together: a pottle at one time is nothing with him to ſcour his Maw.</p>
+            </div>
+            <div type="recipe">
+               <head>Why he ſwallowes Bullets and Stones.</head>
+               <p>THe heat of his ſtomack is ſuch, that without ſuch a Remedy he could not ſubſiſt; for when he hath gormondized himſelf at ſome great Feaſt, ſtrait way he ſwallows bullets of almoſt 4 Ounces weight, which cauſes a preſent digeſtion: alſo round pebble ſtones he often ſwallows, which cools his Maw. Theſe kind of tricks he hath, by which he puts down many of our new Juglers now a days, who will be an hour eating of a Cheeſe-cake; he vanquiſheth all that dare oppoſe him in his Art.</p>
+            </div>
+            <div type="recipe">
+               <head>How he orders his baked meat, or his rare Diſh on Sundays.</head>
+               <p>MR. <hi>Marriot</hi> out of niceneſs, becauſe he would not have womens fingers in his meat, dreſſes his meat himſelf, having an earthen pot which holds half a buſhel; he fills it in this manner as follow<g ref="char:EOLhyphen"/>eth. Take a Bullocks head, the bones being chopped ſmall, and good ſtore of Onions, and other courſe Hearbs which are eaſily to be get, with an ounce of pepper, and as many Turnups as will fill the pot: when he had laid all theſe in his pot, he put thereto a Gal<g ref="char:EOLhyphen"/>lon of pump-water, becauſe it ſhould not want moiſture: then with his own paws he carries it to the Bakehouſe, ſtaying ſtill by it, fear<g ref="char:EOLhyphen"/>ing leaſt he ſhould be deprived of ſome of it in his abſence. He never goes to Church on a Sunday, but gives much attention to the Ba<g ref="char:EOLhyphen"/>ker when he ſayes it is his time to draw; which time being come, he
+<pb n="6" facs="tcp:118345:3"/>
+                  <!-- PDF PAGE 51 -->caries his pot home, and to dinner he goes without laying a cloath; firſt he cuts ſlices of ſtale bread, and ſops them in this R<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtorativ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>: he is a right Engliſh-man, for he eats his broath firſt; which being done, he ſends the meat to be boiled once more in his hot maw, that hath ſo quick a digeſtion, that three Cooks are not able to provide him meat at all the motions of his ſtomack: This being an abſolute Remedy for the preſent, I have here ſet it down for thoſe ſtomacks that dare keep him company.</p>
+            </div>
+            <div type="recipe">
+               <head>How to make his rare Fiſh-broath.</head>
+               <p>LIke a good Doctor he makes his broath, onely in May or June, when Mackrel are 16 a groat; and then he hath great skill in chooſing them, for none but the broken bellyed ones will ſerve his turn: but becauſe he would not be cheated in them, he will go to Billingsgate himſelf, and will ſit on the ſtairs half a day, rather then be diſappointed: but ſeeing fiſh for his turn, preſently buyes twelve peny worth, and away he comes home, getting water, and ſetting them on in his large Caldron: many hearbs he uſes, as Fennel, B<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yes, Roſemary, and a few Leeks; but when it is boiling he skims it, becauſe it is to make broath: having ſo done, he lets them boil a little, and then takes up his fiſh and his hearbs: then he puts half a peck of Malt in, and boiles it again; his fiſh he ſets to cool, yet like a good Cook, he licks his fingers as he is a dreſſing them: having now boil'd his broath ſufficiently, he falls on it, and the fiſh, making no more of it then the Welſhman did of his three peny Ordinary, who was ready for another, before he had done that he was about. The uſe he made of this broath and fiſh, was onely to get him a ſtomack; for he would often ſay, That fiſh was of a light digeſtion: therefore good for thoſe that have but a ſlight ſtomack at preſent, but deſire a greater.</p>
+            </div>
+            <div type="recipe">
+               <head>How to make his cooling Sallet, to cool the bloud.</head>
+               <p>I Am of opinion that he hath read <hi>Gerards</hi> Herball, or the Hiſtory of Plants, wherein partly he found this Receit; and being in<g ref="char:EOLhyphen"/>larged by himſelf, I thought fit to ſet it down amongſt the reſt: he being a man of a hot ſtomack, did uſe this Sallet following very of<g ref="char:EOLhyphen"/>ten, wherein he found great benefit.</p>
+               <p>
+                  <hi>The way to make it is thus:</hi>
+                  <lb/>
+Take as many Water-Creſſes as a large Flasket will hold, as ma<g ref="char:EOLhyphen"/>ny Radiſh tops, and half ſo many Colworts; boil all theſe together 
+<pb n="8" facs="tcp:118345:4"/>
+                  <!-- PDF PAGE 52 -->for the ſpace of two hours: then take them up without much <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, and put them in all <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Tub, putting thereto a Gallon of ſowr Ale, and a quantity of Gooſe-greaſe, ſufficient to give it a taſte, with a pound of Pepper ſtrewed upon it: This Sallet is excellent good to purge the bloud, and looſen the belly, this quantity being taken three ſeveral mornings in the week.</p>
+            </div>
+            <div type="recipe">
+               <head>How to make Mr. Marriots Diſh, called a Frigazee.</head>
+               <p>THis M<hi rend="sup">r</hi> 
+                  <hi>Marriot</hi> hearing of a new Diſh that was much uſed at Oxford Cates, and in other places about the City amongſt gal<g ref="char:EOLhyphen"/>lants, thought in his fanſie to make one that ſhould reſemble it, be<g ref="char:EOLhyphen"/>cauſe the materials that were uſed in it, were too deer for him; but being a man of a rare ſtomack, quickly gueſſed at ſomething that was eatable, though dreſſed in a ſtrange way: When he had thought upon all the materials of this Diſh, he began to put it in practice, having gotten all the Ingredients together, to try this rare conclu<g ref="char:EOLhyphen"/>ſion.</p>
+               <p>
+                  <hi>And thus he made it;</hi>
+                  <lb/>
+He took three great Pomcitrons, and pulled out the Kernels that were within them: then he pared the outſide rinde off, and then ſli<g ref="char:EOLhyphen"/>ced them into thin ſlices: then he had many Apples which he ſliced alſo: then he took two Bullocks Livers and ſliced them very thin and broad: then he laid a row of the former ſlices in the bottome of his Oxe-cheek pot; he pepper'd his Liver well, and laid a laying of one, and a laying of another, till he had filled his pot, ſtrewing many fine herbs on the top of it: Then he carryed it to the Bake<g ref="char:EOLhyphen"/>houſe, where he ſtaid till it was baked; being come home, he invited his Landlord to taſte of his new Diſh, who I dare ſwear never faw the like before; but his Landlord knowing his ſtomack, and that a — was as good for a Sow as a pancake, praiſed his diſh highly, ſaying, It is very good, but I have newly ſupped; therefore I deſire you to excuſe me to night: I ſhall leave none for to morrow, qd. he, and ſo fell on, as if it had been a Chicken roaſted: ſo excellent is his ſtomack for digeſtion.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
